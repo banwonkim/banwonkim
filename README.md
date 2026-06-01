@@ -1,7 +1,6 @@
 ## no Hi
-I am very skeptical about open source.
-And the programming community too.
+vibe sucks<br/>
+ceo sucks<br/>
+computer engineering sucks<br/>
 
-Why?
-Here's reason
 [Policy](https://github.com/banwonkim/Policy)
